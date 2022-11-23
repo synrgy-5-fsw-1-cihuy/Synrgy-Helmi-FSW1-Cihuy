@@ -12,13 +12,13 @@ Universitas : Suryakancana
 ```
 
 ## Sosial Media "Lets Be Connect"
+<p>Link Demo Web yang sudah dihosting <a href="http://immense-river-47392.herokuapp.com/">Klik Web</a></p>
 
-
--Instagram : [Open](https://www.instagram.com/helmis.vip/)
--Linkedin  : [Open](https://www.linkedin.com/in/helmi-sulaeman-9429201a7/)
--Whatsapp  : [Open](https://api.whatsapp.com/send?phone=6283817472272&amp;text)
--Telegram  : @helmis14
--Youtube   :[Open](https://www.youtube.com/channel/UCAvJBvgcaa9I4IJAMYszfDw) / @helmisulaeman2164
+<p>Instagram : <a href="https://www.instagram.com/helmis.vip/">Click To Open</a></p>
+<p>Linkedin  : <a href="https://www.linkedin.com/in/helmi-sulaeman-9429201a7/">Click To Open</a></p>
+<p>Whatsapp  : <a href="https://api.whatsapp.com/send?phone=6283817472272&amp;text">Click To Open</a></p>
+<p>Youtube   :<a href="https://www.youtube.com/channel/UCAvJBvgcaa9I4IJAMYszfDw">Click To Open</a></p> / @helmisulaeman2164
+<p>Telegram  : @helmis14</p>
 
 
 ## Usage
