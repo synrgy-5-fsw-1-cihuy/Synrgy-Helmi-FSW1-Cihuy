@@ -1,0 +1,31 @@
+## SYNRGY X BINAR ACADEMY X BCA 
+
+
+## BIODATA
+
+```sh
+Nama        : Helmi Sulaeman
+Kelas       : Fullstack Web A 1
+Fasil       : Reja Nurohmat
+Domisili    : Cianjur Jawa Barat
+Universitas : Suryakancana
+```
+
+## Sosial Media "Lets Be Connect"
+
+```sh
+Instagram : https://www.instagram.com/helmis.vip/
+Linkedin  : https://www.linkedin.com/in/helmi-sulaeman-9429201a7/
+Whatsapp  : https://api.whatsapp.com/send?phone=6283817472272&amp;text
+Telegram  : @helmis14
+Youtube   :https://www.youtube.com/channel/UCAvJBvgcaa9I4IJAMYszfDw / @helmisulaeman2164
+```
+
+## Usage
+
+```sh
+Pengumpulan Challenge - Challenge ada di tiap branch 
+Terimakasih
+```
+
+
