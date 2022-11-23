@@ -14,11 +14,11 @@ Universitas : Suryakancana
 ## Sosial Media "Lets Be Connect"
 
 
-Instagram : [Open](https://www.instagram.com/helmis.vip/)
-Linkedin  : [Open](https://www.linkedin.com/in/helmi-sulaeman-9429201a7/)
-Whatsapp  : [Open](https://api.whatsapp.com/send?phone=6283817472272&amp;text)
-Telegram  : @helmis14
-Youtube   :[Open](https://www.youtube.com/channel/UCAvJBvgcaa9I4IJAMYszfDw) / @helmisulaeman2164
+-Instagram : [Open](https://www.instagram.com/helmis.vip/)
+-Linkedin  : [Open](https://www.linkedin.com/in/helmi-sulaeman-9429201a7/)
+-Whatsapp  : [Open](https://api.whatsapp.com/send?phone=6283817472272&amp;text)
+-Telegram  : @helmis14
+-Youtube   :[Open](https://www.youtube.com/channel/UCAvJBvgcaa9I4IJAMYszfDw) / @helmisulaeman2164
 
 
 ## Usage
