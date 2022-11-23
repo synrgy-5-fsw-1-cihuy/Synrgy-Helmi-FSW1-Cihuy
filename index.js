@@ -1,9 +1,11 @@
 const express = require('express');
-const carRouter = require('./router/cars-router.js');
 const app = express();
-
+const cloudinaryConfig = require('./config/cloudinary');
+const formidableMiddleware = require('formidable');
+const carRouter = require('./router/cars-router.js');
 const PORT = 8001 || process.env.PORT;
 
+//Routing
 app.use(carRouter);
 
 
