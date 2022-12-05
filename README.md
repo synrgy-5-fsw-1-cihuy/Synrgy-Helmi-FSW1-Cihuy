@@ -11,7 +11,7 @@ isi tabel cars -> name: STRING,
     created_at timestamp,
     updated_at timestamp
     
-isi tabel cars -> name: STRING,
+isi tabel users -> name: STRING,
     email: STRING,
     passwor: STRING,
     role: ENUM,
