@@ -1,31 +1,64 @@
-## SYNRGY X BINAR ACADEMY X BCA 
-
-
-## BIODATA
+## Challenge 6 
 
 ```sh
-Nama        : Helmi Sulaeman
-Kelas       : Fullstack Web A 1
-Fasil       : Reja Nurohmat
-Domisili    : Cianjur Jawa Barat
-Universitas : Suryakancana
+## Database  
+Postgresql 
+nama database -> cars_development
+isi tabel cars -> name: STRING,
+    price: INTEGER,
+    size: STRING,
+    foto: STRING,
+    created_at timestamp,
+    updated_at timestamp
+    
+isi tabel cars -> name: STRING,
+    email: STRING,
+    passwor: STRING,
+    role: ENUM,
+    created_at timestamp,
+    updated_at timestamp
+    
 ```
 
-## Sosial Media "Lets Be Connect"
-<p>Link Demo Web yang sudah dihosting <a href="http://immense-river-47392.herokuapp.com/">Klik Web</a></p>
+```sh
+Link DatabaseDiagramIo -> https://dbdiagram.io/d/63703906c9abfc61117230b6
+```
 
-<p>Instagram : <a href="https://www.instagram.com/helmis.vip/">Click To Open</a></p>
-<p>Linkedin   : <a href="https://www.linkedin.com/in/helmi-sulaeman-9429201a7/">Click To Open</a></p>
-<p>Whatsapp  : <a href="https://api.whatsapp.com/send?phone=6283817472272&amp;text">Click To Open</a></p>
-<p>Youtube    :<a href="https://www.youtube.com/channel/UCAvJBvgcaa9I4IJAMYszfDw">Click To Open</a></p> 
-<p>Telegram  : @helmis14</p>
+```sh
+Patteb -> Service Repository
+```
+
+```sh
+## Endpoint CRUD
+
+// User Router
+router.post("/api/register/member");
+router.post("/api/register/admin");
+router.post("/api/login");
+router.post("/api/profile");
+
+//POST
+router.post('/api/cars');
+
+//GET ALL
+router.get('/api/cars');
+//GET BY ID
+router.get('/api/cars/:id');
+
+//UPDATE
+router.put('/api/cars/:id');
+
+//DELETE
+router.delete('/api/cars/:id');
+
+```
 
 
 ## Usage
 
 ```sh
-Pengumpulan Challenge - Challenge ada di tiap branch 
-Terimakasih
+NPM install 
+sequelize db:create
+sequelize db:migrate
+npx nodeman index.js
 ```
-
-
