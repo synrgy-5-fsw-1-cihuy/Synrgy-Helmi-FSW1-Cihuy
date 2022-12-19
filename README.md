@@ -2,6 +2,9 @@
 
 ## CHALLENGE 7
 
+-Convert Challenge 1 to react
+-Consume API HTTP
+
 
 ## Usage
 
