@@ -110,7 +110,7 @@ class CarController extends ApplicationController {
         image,
       } = req.body;
 
-      const car = this.getCarFromRequest(req);
+      const car = await this.getCarFromRequest(req);
 
       await car.update({
         name,
